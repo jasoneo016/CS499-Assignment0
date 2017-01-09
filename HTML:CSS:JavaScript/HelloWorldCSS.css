@@ -1,0 +1,10 @@
+body {
+    background-color: #2D2D2D;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 80px;
+    font-family: Menlo, Monaco, fixed-width;
+}
